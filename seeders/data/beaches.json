@@ -1,0 +1,14 @@
+{
+  "beaches": [
+    {
+      "name": "North Beach",
+      "location": "LA",
+      "sand_rating": 2
+    },
+    {
+      "name": "South Beach",
+      "location": "LA",
+      "sand_rating": 10
+    }
+  ]
+}
